@@ -1,4 +1,4 @@
-![image](https://github.com/hsoo-choi/readme-001/assets/138542051/529ce9d3-b03d-4406-a279-287f57f9af1f)나는<br/>
+나는<br/>
 내용을<br/>
 기입한다<br/>
 
@@ -16,6 +16,4 @@
 ```cpp
 #include <stdio.h>
 ```
-
-
-https://cdn.pixabay.com/photo/2023/06/18/04/57/silver-throated-tanager-8071234_1280.jpg
+![image](https://github.com/hsoo-choi/readme-001/assets/138542051/d1899eea-d333-43e5-8c59-667fcc91b335)
